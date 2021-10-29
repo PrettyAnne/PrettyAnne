@@ -14,6 +14,6 @@
 <br />
 <h3 align="center">💎 Follow Me 💎</h3>
 <p align="center">
-  <a href="https://velog.io/@myanne"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@myanne"/></a>&nbsp
-  <a href="mailto:wjdghk0118@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wjdghk0118@gmail.com"/></a>
+  <a href="https://velog.io/@myanne" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@myanne"/></a>&nbsp
+  <a href="mailto:wjdghk0118@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wjdghk0118@gmail.com"/></a>
 </p>
