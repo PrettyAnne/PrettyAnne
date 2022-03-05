@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Slice&color=ffc4cd&height=250&section=header&text=JungHwa&fontSize=80&" />
+<img src="https://capsule-render.vercel.app/api?type=Slice&color=ffc4cd&height=250&section=header&text=YiSeo&fontSize=80&" />
 <h3 align="center">:raising_hand:Front-End Developer를 향하여</h3>
 <br />
 <h3 align="center">📚 Stack 📚</h3>
